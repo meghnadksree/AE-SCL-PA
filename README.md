@@ -1,2 +1,1 @@
-# AE-SCL-PA
-Different Approach for low resource languages
+AE-SCL-PA AND AE-SCL-PA-FT are the two approaches for using domain adaptation approach for sentiment analysis on Indian languages. The folders contains two parts training and prediction. First execute the training part and then execute prediction part.
